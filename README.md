@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub, I'm Bryan Oviedo 
+# 👋 Welcome to my GitHub, I'm Bryan Oviedo
 
 ---
 
@@ -46,16 +46,17 @@
 
 ## My Projects ✨
 
-### 🔹 [Augmented Reality Guide for Community Tourism](#)  
-A project focused on community tourism in **Ambato, Ecuador**, integrating augmented reality to enhance visitor experiences.  
+### 🔹 [Augmented Reality Guide for Community Tourism](https://github.com/Bryanovi/tourism-ar-project)  
+A project focused on community tourism in **Ambato, Ecuador**, integrating augmented reality to enhance visitor experiences.
 
-### 🔹 [Intelligent Facial Recognition System](#)  
-An AI-based system that identifies people through a camera and automatically opens doors when the owner is recognized.  
+### 🔹 [Intelligent Facial Recognition System](https://github.com/Bryanovi/facial-recognition-ai)  
+An AI-based system that identifies people through a camera and automatically opens doors when the owner is recognized.
 
-### 🔹 [Digit Classification with SVM](#)  
+### 🔹 [Digit Classification with SVM](https://github.com/Bryanovi/mnist-svm-classification)  
 A multiclass classification project using the **MNIST** dataset for handwritten digit recognition.
 
 ---
 
 ## Thanks for visiting my profile! 😁
 
+```diff
