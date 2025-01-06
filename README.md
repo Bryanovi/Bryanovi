@@ -46,7 +46,7 @@
 
 ## My Projects ✨
 
-### 🔹 [Augmented Reality Guide for Community Tourism](https://github.com/Bryanovi/tourism-ar-project)  
+### 🔹 [Inventory Management System - Web](https://github.com/Invcontrol-Back/dasfrontend)
 A project focused on community tourism in **Ambato, Ecuador**, integrating augmented reality to enhance visitor experiences.
 
 ### 🔹 [Intelligent Facial Recognition System](https://github.com/Bryanovi/facial-recognition-ai)  
@@ -54,6 +54,15 @@ An AI-based system that identifies people through a camera and automatically ope
 
 ### 🔹 [Digit Classification with SVM](https://github.com/Bryanovi/mnist-svm-classification)  
 A multiclass classification project using the **MNIST** dataset for handwritten digit recognition.
+
+
+## My Projects ✨
+
+| Project Name | Description | Link |
+|--------------|-------------|------|
+| **Inventory Management System - Web** | A project focused on community tourism in **Ambato, Ecuador**, integrating augmented reality to enhance visitor experiences. | [Link](https://github.com/Invcontrol-Back/dasfrontend) |
+| **Intelligent Facial Recognition System** | An AI-based system that identifies people through a camera and automatically opens doors when the owner is recognized. | [Link](https://github.com/Bryanovi/facial-recognition-ai) |
+| **Digit Classification with SVM** | A multiclass classification project using the **MNIST** dataset for handwritten digit recognition. | [Link](https://github.com/Bryanovi/mnist-svm-classification) |
 
 ---
 
