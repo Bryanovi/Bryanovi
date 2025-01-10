@@ -1,6 +1,6 @@
 # Welcome!!, I'm Bryan Oviedo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<img src="https://github.com/Bryanovi/Certificados1/blob/main/portada2.png" width="1100" height="220" />
+<img src="https://github.com/Bryanovi/Certificados1/blob/main/portada3.png" width="1100" height="210" />
 
 ## About Me
 
@@ -126,7 +126,6 @@ I am focused on creating a virtual reality (VR) app designed to serve as a guide
 ## 📊 Activity Graph
 
 [![Bryan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bryanovi&theme=react-dark)](https://github.com/Bryanovi)
-
 
 ## Thanks for visiting my profile! 😁
 
