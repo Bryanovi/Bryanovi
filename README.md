@@ -35,6 +35,7 @@
     <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/615f8d24-e754-4523-9466-ad180c01e728.png?auto=format,compress&size=50" width="50" height="50" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="50" height="50" alt="Git"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="50" height="50" alt="Git"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50" height="50" alt="Git"/> 
 
 ---
 
@@ -49,51 +50,31 @@
 
 ### 🔹 [Inventory Management System - Web](https://github.com/Invcontrol-Back/dasfrontend)
 A project focused on inventory management within the **FISEI** faculty, integrating a manager for computers, cameras and software licenses
-</a>
+
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="50" height="50" alt="Git"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50" />  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="50" height="50" alt="Git"/>
+
 
 ### 🔹 [Inventory Management System - Mobile](https://github.com/Invcontrol-Back/MovilFrontend)
 A project focused on inventory management within the **FISEI** faculty, adding components through the use of **QR** for computers
 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg" width="50" height="50" alt="Git"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="50" height="50" alt="Git"/>
+    
+
 ### 🔹 [Project Manager - Web](https://github.com/Bryanovi/CONCURSO)
 A project management app built and efficient project tracking and task management. **Angular** provides a dynamic UI, while **MongoDB** handles data storage. **It includes authentication, task assignments, and reports.**
 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="50" height="50" alt="Git"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50" height="50" alt="Git"/> 
+
+
 ### 🔹 [Project Store Mobiles - Web](https://github.com/Bryanovi/Service-Telephone)
-An online store developed using Angular for a dynamic, responsive user interface and MongoDB for scalable, flexible data storage. It allows users to browse products, add items to the cart, and complete purchases. Features include user authentication, product categorization, order tracking, and payment processing, all integrated seamlessly for an optimal shopping experience. The app ensures fast performance and easy management of product listings, inventory, and customer data.
+An online store developed using Angular for a dynamic, responsive user interface and MongoDB for scalable, flexible data storage. It allows users to browse products, add items to the cart.
+
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="50" height="50" alt="Git"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50" height="50" alt="Git"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50" height="50" alt="Git"/>
 
 ### 🔹 [Project Store Clothes - Mobile](https://github.com/Bryanovi/ProjectStoreClothes)
-The Mobile Clothing Store App allows users to browse a wide range of clothing products, add them to their shopping cart, and securely complete purchases. It offers features like user authentication, order tracking, and a smooth shopping experience. Built with Android Studio and Firebase, it ensures seamless navigation and secure transactions.
+The Mobile Clothing Store App allows users to browse a wide range of clothing products, add them to their shopping cart, and securely complete purchases. It offers features like user authentication, order tracking, and a smooth shopping experience.
 
-## My Projects ✨
-
-<div> 
- <p align="center">
-   
-<a href="https://github.com/Invcontrol-Back/dasfrontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryanovi&repo=dasfrontend&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Invcontrol-Back/MovilFrontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryanovi&repo=MovilFrontend&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Bryanovi/CONCURSO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryanovi&repo=CONCURSO&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Bryanovi/Service-Telephone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryanovi&repo=Service-Telephone&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Bryanovi/ProjectStoreClothes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryanovi&repo=ProjectStoreClothes&theme=tokyonight" />
-</a>
-
-</p>
-</div>
-
-
-
-
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="50" height="50" alt="Git"/>   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50" height="50" alt="Git"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50" height="50" alt="Git"/>
 ---
 
 ## My Experience ✨
@@ -102,10 +83,13 @@ The Mobile Clothing Store App allows users to browse a wide range of clothing pr
 He, together with his team, focused on developing an APP implementation for the automatic activation and control of the LED Lighting System and Security System of EP-EMA, including the multiple safety features used in this implementation.
 
 ## Research agent in Virtual Reality for the UTA - Intern
-I am focused on creating a virtual reality (VR) app designed to serve as a guide for individuals without medical knowledge. This app will provide an immersive learning experience, teaching users about surgical instruments and medical procedures. By leveraging VR technology, my goal is to offer accessible training that can help individuals better understand the medical field and its tools, enhancing their knowledge in a safe, interactive environment.
+I am focused on creating a virtual reality (VR) app designed to serve as a guide for individuals without medical knowledge. This app will provide an immersive learning experience, teaching users about surgical instruments and medical procedures. This can help individuals better understand the medical field and its tools.
 
 ---
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
+## 📊 GitHub Activity Graph
+
+[![Bryan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bryanovi&theme=react-dark)](https://github.com/Bryanovi)
+
 
 ## Thanks for visiting my profile! 😁
 
