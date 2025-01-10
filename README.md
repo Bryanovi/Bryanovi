@@ -49,29 +49,44 @@
 ## My Projects ✨
 
 ### 🔹 [Inventory Management System - Web](https://github.com/Invcontrol-Back/dasfrontend)
+
+<img src="https://github.com/Bryanovi/Certificados1/blob/main/InvControl-Web.png" width="500" height="250" alt="Git"/>
+
 A project focused on inventory management within the **FISEI** faculty, integrating a manager for computers, cameras and software licenses.
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="50" height="50" alt="Git"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50" />  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="50" height="50" alt="Git"/>
 
 
 ### 🔹 [Inventory Management System - Mobile](https://github.com/Invcontrol-Back/MovilFrontend)
-A project focused on inventory management within the **FISEI** faculty, adding components through the use of **QR** for computers.
+
+<img src="https://github.com/Bryanovi/Certificados1/blob/main/InvControl-Movil.png" width="500" height="250" alt="Git"/>
+
+A project focused on inventory management within the **FISEI** faculty, adding components through the use of **QR** for computers. </br>
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg" width="50" height="50" alt="Git"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="50" height="50" alt="Git"/>
     
 
 ### 🔹 [Project Manager - Web](https://github.com/Bryanovi/CONCURSO)
+
+<img src="https://github.com/Bryanovi/Certificados1/blob/main/gestor_proyectos.jpg" width="500" height="250" alt="Git"/>
+
 A project management app built and efficient project tracking and task management. **Angular** provides a dynamic UI, while **MongoDB** handles data storage. **It includes authentication, task assignments, and reports.**
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="50" height="50" alt="Git"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50" height="50" alt="Git"/> 
 
 
 ### 🔹 [Project Store Mobiles - Web](https://github.com/Bryanovi/Service-Telephone)
+
+<img src="https://github.com/Bryanovi/Certificados1/blob/main/celulares.jpg" width="500" height="250" alt="Git"/>
+
 An online store developed using Angular for a dynamic, responsive user interface and MongoDB for scalable, flexible data storage. It allows users to browse products, add items to the cart.
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="50" height="50" alt="Git"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50" height="50" alt="Git"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50" height="50" alt="Git"/>
 
 ### 🔹 [Project Store Clothes - Mobile](https://github.com/Bryanovi/ProjectStoreClothes)
+
+<img src="https://github.com/Bryanovi/Certificados1/blob/main/ropa.jpg" width="500" height="250" alt="Git"/>
+
 The Mobile Clothing Store App allows users to browse a wide range of clothing products, add them to their shopping cart, and securely complete purchases. It offers features like user authentication, order tracking, and a smooth shopping experience.
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="50" height="50" alt="Git"/>   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50" height="50" alt="Git"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50" height="50" alt="Git"/>
@@ -80,11 +95,17 @@ The Mobile Clothing Store App allows users to browse a wide range of clothing pr
 ## My Experience ✨
 
 ## Implementation and control of the LED Lighting System of EP-EMA - Intern
-He, together with his team, focused on developing an APP implementation for the automatic activation and control of the LED Lighting System and Security System of EP-EMA, including the multiple safety features used in this implementation.
+
+<img src="https://github.com/Bryanovi/Certificados1/blob/main/em2.jpg" width="500" height="250" alt="Git"/>
+
+I together with my team, focused on developing an APP implementation for the automatic activation and control of the LED Lighting System and Security System of EP-EMA, including the multiple safety features used in this implementation.
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg" width="50" height="50" alt="Git"/> 
 
 ## Research agent in Virtual Reality for the UTA - Intern
+
+<img src="https://github.com/Bryanovi/Certificados1/blob/main/virtual.jpg" width="500" height="250" alt="Git"/>
+
 I am focused on creating a virtual reality (VR) app designed to serve as a guide for individuals without medical knowledge. This app will provide an immersive learning experience, teaching users about surgical instruments and medical procedures. This can help individuals better understand the medical field and its tools.
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="50" height="50" alt="Git"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" width="50" height="50" alt="Git"/>
