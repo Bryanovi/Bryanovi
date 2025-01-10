@@ -1,6 +1,6 @@
 # Welcome!!, I'm Bryan Oviedo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
----
+<img src="https://github.com/Bryanovi/Certificados1/blob/main/portada2.png" width="1100" height="220" />
 
 ## About Me
 
