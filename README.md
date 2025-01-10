@@ -82,10 +82,26 @@ The Mobile Clothing Store App allows users to browse a wide range of clothing pr
 ## Implementation and control of the LED Lighting System of EP-EMA - Intern
 He, together with his team, focused on developing an APP implementation for the automatic activation and control of the LED Lighting System and Security System of EP-EMA, including the multiple safety features used in this implementation.
 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg" width="50" height="50" alt="Git"/> 
+
 ## Research agent in Virtual Reality for the UTA - Intern
 I am focused on creating a virtual reality (VR) app designed to serve as a guide for individuals without medical knowledge. This app will provide an immersive learning experience, teaching users about surgical instruments and medical procedures. This can help individuals better understand the medical field and its tools.
 
----
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" width="50" height="50" alt="Git"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" width="50" height="50" alt="Git"/>
+
+## My Certifications ✨
+<div>
+   <a>
+<img src="https://github.com/Bryanovi/Certificados1/blob/main/HATUN.png" width="400" height="200">
+   </a>
+   <a><img src="https://github.com/Bryanovi/Certificados1/blob/main/JAVA1.png" width="400" height="200">
+   </a>
+   <a><img src="https://github.com/Bryanovi/Certificados1/blob/main/JAVA2.png" width="400" height="200">
+   </a>
+   <a><img src="https://github.com/Bryanovi/Certificados1/blob/main/RED.png" width="400" height="200">
+   </a>
+</div>
+
 ## 📊 GitHub Activity Graph
 
 [![Bryan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bryanovi&theme=react-dark)](https://github.com/Bryanovi)
