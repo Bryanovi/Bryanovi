@@ -49,13 +49,13 @@
 ## My Projects ✨
 
 ### 🔹 [Inventory Management System - Web](https://github.com/Invcontrol-Back/dasfrontend)
-A project focused on inventory management within the **FISEI** faculty, integrating a manager for computers, cameras and software licenses
+A project focused on inventory management within the **FISEI** faculty, integrating a manager for computers, cameras and software licenses.
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="50" height="50" alt="Git"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50" />  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="50" height="50" alt="Git"/>
 
 
 ### 🔹 [Inventory Management System - Mobile](https://github.com/Invcontrol-Back/MovilFrontend)
-A project focused on inventory management within the **FISEI** faculty, adding components through the use of **QR** for computers
+A project focused on inventory management within the **FISEI** faculty, adding components through the use of **QR** for computers.
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg" width="50" height="50" alt="Git"/>  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="50" height="50" alt="Git"/>
     
@@ -102,7 +102,7 @@ I am focused on creating a virtual reality (VR) app designed to serve as a guide
    </a>
 </div>
 
-## 📊 GitHub Activity Graph
+## 📊 Activity Graph
 
 [![Bryan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bryanovi&theme=react-dark)](https://github.com/Bryanovi)
 
