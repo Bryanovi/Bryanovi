@@ -1,4 +1,4 @@
-# 👋 Welcome, I'm Bryan Oviedo
+# Welcome!!, I'm Bryan Oviedo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ---
 
@@ -17,29 +17,31 @@
 ## Skills 🛠️
 
 ### Programming Languages & Databases  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) 
-![Python](https://img.shields.io/badge/-Python-blue) 
-![Java](https://img.shields.io/badge/-Java-red) 
-![SQL](https://img.shields.io/badge/-SQL-lightgrey)  
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="50" height="50  " /><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50" height="50" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" height="50" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50" />
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50" />
+     
    
 ### Frameworks & Libraries  
-![React](https://img.shields.io/badge/-React-blue) 
-![Vite](https://img.shields.io/badge/-Vite-purple)  
-![MATLAB](https://img.shields.io/badge/-MATLAB-orange)  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="50" height="50" alt="Git"/><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50" height="50" alt="Git"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="50" height="50" alt="Git"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg" width="50" height="50" alt="Git"/>
+    <img src="https://www.svgrepo.com/show/353912/ionic-icon.svg" width="50" height="50" alt="Git"/>
    
 ### Tools  
-![Git](https://img.shields.io/badge/-Git-black)  
-![GitHub](https://img.shields.io/badge/-GitHub-black)  
-![Tkinter](https://img.shields.io/badge/-Tkinter-blue)  
+<img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" width="50" height="50" alt="Git"/><img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="50" height="50" alt="Git"/>
+    <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/615f8d24-e754-4523-9466-ad180c01e728.png?auto=format,compress&size=50" width="50" height="50" alt="Git"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="50" height="50" alt="Git"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="50" height="50" alt="Git"/> 
 
 ---
 
 ## Most Used Technologies 💡  
-- **Frontend**: React, Vite, HTML, CSS  
-- **Backend**: Node.js, Express  
-- **AI & Machine Learning**: Python, SVM
-- **Version Control**: Git, GitHub  
-- **Augmented & Virtual Reality**: Unity 
+<div align="center">
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white">   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+</div>
 
 ---
 
@@ -47,6 +49,7 @@
 
 ### 🔹 [Inventory Management System - Web](https://github.com/Invcontrol-Back/dasfrontend)
 A project focused on inventory management within the **FISEI** faculty, integrating a manager for computers, cameras and software licenses
+</a>
 
 ### 🔹 [Inventory Management System - Mobile](https://github.com/Invcontrol-Back/MovilFrontend)
 A project focused on inventory management within the **FISEI** faculty, adding components through the use of **QR** for computers
@@ -60,6 +63,37 @@ An online store developed using Angular for a dynamic, responsive user interface
 ### 🔹 [Project Store Clothes - Mobile](https://github.com/Bryanovi/ProjectStoreClothes)
 The Mobile Clothing Store App allows users to browse a wide range of clothing products, add them to their shopping cart, and securely complete purchases. It offers features like user authentication, order tracking, and a smooth shopping experience. Built with Android Studio and Firebase, it ensures seamless navigation and secure transactions.
 
+## My Projects ✨
+
+<div> 
+ <p align="center">
+   
+<a href="https://github.com/Invcontrol-Back/dasfrontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryanovi&repo=dasfrontend&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Invcontrol-Back/MovilFrontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryanovi&repo=MovilFrontend&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Bryanovi/CONCURSO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryanovi&repo=CONCURSO&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Bryanovi/Service-Telephone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryanovi&repo=Service-Telephone&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Bryanovi/ProjectStoreClothes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryanovi&repo=ProjectStoreClothes&theme=tokyonight" />
+</a>
+
+</p>
+</div>
+
+
+
+
 ---
 
 ## My Experience ✨
@@ -71,6 +105,7 @@ He, together with his team, focused on developing an APP implementation for the 
 I am focused on creating a virtual reality (VR) app designed to serve as a guide for individuals without medical knowledge. This app will provide an immersive learning experience, teaching users about surgical instruments and medical procedures. By leveraging VR technology, my goal is to offer accessible training that can help individuals better understand the medical field and its tools, enhancing their knowledge in a safe, interactive environment.
 
 ---
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
 
 ## Thanks for visiting my profile! 😁
 
